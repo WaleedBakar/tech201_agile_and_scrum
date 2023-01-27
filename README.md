@@ -23,4 +23,9 @@ By putting  Agile practices into a DevOps workflow, teams can align development,
 
     Increased efficiency: Agile methodologies emphasize continuous improvement, which can lead to more efficient processes and better use of resources.
 
-    Better quality of products: Agile methodologies promote testing and quality assurance throughout the development process, which can result in higher-quality products.
+    Better quality of products: Agile methodologies promote testing and
+
+ 
+  
+
+![img_5.png](img_5.png)
